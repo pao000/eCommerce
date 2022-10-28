@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cuenco azul",
+        "precio": 200,
+        "stock": 12,
+        "categoria": "cuencos",
+        "img": "./multimedia/cuenco-azul.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Cuenco Amarillo",
+        "precio": 100,
+        "stock": 12,
+        "categoria": "cuencos",
+        "img": "./multimedia/cuenco-amarillo.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Cuenco Loto",
+        "precio": 400,
+        "stock": 12,
+        "categoria": "cuencos",
+        "img": "./multimedia/cuenco-loto.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Cucharas Amorfas",
+        "precio": 500,
+        "stock": 12,
+        "categoria": "cucharas",
+        "img": "./multimedia/cucharas-amorfas.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Cucharas Colores",
+        "precio": 700,
+        "stock": "12",
+        "categoria": "cucharas",
+        "img": "./multimedia/cucharas-colores.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Cucharas Ojos",
+        "precio": 900,
+        "stock": 12,
+        "categoria": "cucharas",
+        "img": "./multimedia/cucharas-ojos.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Espiral Agujeros",
+        "precio": 400,
+        "stock": 12,
+        "categoria": "espirales",
+        "img": "./multimedia/espiral-agujeros.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Espiral Cerrado",
+        "precio": 500,
+        "stock": 12,
+        "categoria": "espirales",
+        "img": "./multimedia/espiral-cerrado.jpg"
+    }
+]
